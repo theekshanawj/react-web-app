@@ -13,7 +13,7 @@ This repo contains boilerplate code for a React application with Node/Express se
 
 Content is sliced using commits 
 
-### Commit-1 
+### [Commit-1](https://github.com/theekshanawj/react-web-app/tree/commit-1) 
 
 The basic Node/Express app. 
 
@@ -29,7 +29,7 @@ The basic Node/Express app.
 
 Run `npm run start` in the root directory and use your favourite browser to navigate to `localhost:3000/` to see *Hello World* page
 
-### Commit-2
+### [Commit-2](https://github.com/theekshanawj/react-web-app/tree/commit-2) 
 
 The basic React application
 
@@ -42,7 +42,7 @@ The basic React application
 
 N/A
 
-### Commit-3
+### [Commit-3](https://github.com/theekshanawj/react-web-app/tree/commit-3) 
 
 Adding Webpack and Babel to transpile and bundle the React application into `bundle.js` in `/public` folder. 
 
@@ -58,7 +58,7 @@ Adding Webpack and Babel to transpile and bundle the React application into `bun
 Run `npm run start` and navigate to `localhost:3000/` to see Content in the React application in the *Hello World* app
 
 
-### Commit-4
+### [Commit-4](https://github.com/theekshanawj/react-web-app/tree/commit-4) 
 
 Define simple routes in the React application and allow dynamic routing thorugh Express
 
