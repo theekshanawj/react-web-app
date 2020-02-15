@@ -48,8 +48,7 @@ Adding Webpack and Babel to transpile and bundle the React application into `bun
 
 #### Highlights
 
-1. Added Webpack and Babel dev dependencies ```
-npm i --save-dev webpack webpack-cli @babel/core @babel/preset-env \@babel/preset-react babel-loader
+1. Added Webpack and Babel dev dependencies `npm i --save-dev webpack webpack-cli @babel/core @babel/preset-env \@babel/preset-react babel-loader`
 2. Added `webpack.config.js` file to bundle the `app.js` React app into `bundle.js` in `/public`
 3. Added `.babelrc`
 4. Added a `div` and `script` in `index.html` to integrate the React into the served `html` file
