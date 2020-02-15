@@ -1,0 +1,19 @@
+{
+  "name": "react-web-app",
+  "version": "1.0.0",
+  "description": "React web app served by a Node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs index.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "React"
+  ],
+  "author": "Theekshana Wijesinghe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
